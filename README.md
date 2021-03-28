@@ -1,26 +1,7 @@
+## Question 
 
-#1) Question
+- 1) Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma separated sequence on a single line.
 
-for i in range(2000, 3201):
-    
-    if i%7==0 and i%5!=0:
-    
-       print(i, end = ",")
-        
-#2) Question
+- 2) Write a python program to accept user's first and last name and then getting them printed in the reverse order with a space between first name and last name.
 
-First_name=input("Enter first name: ")
-
-Last_name=input("Enter last name: ")
-
-print(First_name[::-1], Last_name[::-1])
-
-#3)Question 
-
-Diameter = 12
-
-r=Diameter/2
-
-V=4/3*(3.14*(r**3))
-
-print(";"V)
+- 3) Write a python program to find the volume of a sphere with diameter 12 cm, Formula: V = 4/3 * π * r ^ 3
