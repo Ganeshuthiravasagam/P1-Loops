@@ -1,4 +1,4 @@
-![image](https://github.com/Ganeshuthiravasagam/P1-Loops/blob/main/Python.jpg)
+(https://github.com/Ganeshuthiravasagam/P1-Loops/blob/main/Python%20image.jpeg)
 
 
 # Question 
